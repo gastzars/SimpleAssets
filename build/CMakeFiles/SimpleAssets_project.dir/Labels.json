@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/gas/workspace/projects/SimpleAssets/build/CMakeFiles/SimpleAssets_project"
+		},
+		{
+			"file" : "/Users/gas/workspace/projects/SimpleAssets/build/CMakeFiles/SimpleAssets_project.rule"
+		},
+		{
+			"file" : "/Users/gas/workspace/projects/SimpleAssets/build/CMakeFiles/SimpleAssets_project-complete.rule"
+		},
+		{
+			"file" : "/Users/gas/workspace/projects/SimpleAssets/build/SimpleAssets_project-prefix/src/SimpleAssets_project-stamp/SimpleAssets_project-install.rule"
+		},
+		{
+			"file" : "/Users/gas/workspace/projects/SimpleAssets/build/SimpleAssets_project-prefix/src/SimpleAssets_project-stamp/SimpleAssets_project-mkdir.rule"
+		},
+		{
+			"file" : "/Users/gas/workspace/projects/SimpleAssets/build/SimpleAssets_project-prefix/src/SimpleAssets_project-stamp/SimpleAssets_project-download.rule"
+		},
+		{
+			"file" : "/Users/gas/workspace/projects/SimpleAssets/build/SimpleAssets_project-prefix/src/SimpleAssets_project-stamp/SimpleAssets_project-update.rule"
+		},
+		{
+			"file" : "/Users/gas/workspace/projects/SimpleAssets/build/SimpleAssets_project-prefix/src/SimpleAssets_project-stamp/SimpleAssets_project-patch.rule"
+		},
+		{
+			"file" : "/Users/gas/workspace/projects/SimpleAssets/build/SimpleAssets_project-prefix/src/SimpleAssets_project-stamp/SimpleAssets_project-configure.rule"
+		},
+		{
+			"file" : "/Users/gas/workspace/projects/SimpleAssets/build/SimpleAssets_project-prefix/src/SimpleAssets_project-stamp/SimpleAssets_project-build.rule"
+		},
+		{
+			"file" : "/Users/gas/workspace/projects/SimpleAssets/build/SimpleAssets_project-prefix/src/SimpleAssets_project-stamp/SimpleAssets_project-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"SimpleAssets_project"
+		],
+		"name" : "SimpleAssets_project"
+	}
+}

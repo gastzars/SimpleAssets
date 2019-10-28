@@ -1,0 +1,14 @@
+# Target labels
+ SimpleAssets_project
+# Source files and their labels
+/Users/gas/workspace/projects/SimpleAssets/build/CMakeFiles/SimpleAssets_project
+/Users/gas/workspace/projects/SimpleAssets/build/CMakeFiles/SimpleAssets_project.rule
+/Users/gas/workspace/projects/SimpleAssets/build/CMakeFiles/SimpleAssets_project-complete.rule
+/Users/gas/workspace/projects/SimpleAssets/build/SimpleAssets_project-prefix/src/SimpleAssets_project-stamp/SimpleAssets_project-install.rule
+/Users/gas/workspace/projects/SimpleAssets/build/SimpleAssets_project-prefix/src/SimpleAssets_project-stamp/SimpleAssets_project-mkdir.rule
+/Users/gas/workspace/projects/SimpleAssets/build/SimpleAssets_project-prefix/src/SimpleAssets_project-stamp/SimpleAssets_project-download.rule
+/Users/gas/workspace/projects/SimpleAssets/build/SimpleAssets_project-prefix/src/SimpleAssets_project-stamp/SimpleAssets_project-update.rule
+/Users/gas/workspace/projects/SimpleAssets/build/SimpleAssets_project-prefix/src/SimpleAssets_project-stamp/SimpleAssets_project-patch.rule
+/Users/gas/workspace/projects/SimpleAssets/build/SimpleAssets_project-prefix/src/SimpleAssets_project-stamp/SimpleAssets_project-configure.rule
+/Users/gas/workspace/projects/SimpleAssets/build/SimpleAssets_project-prefix/src/SimpleAssets_project-stamp/SimpleAssets_project-build.rule
+/Users/gas/workspace/projects/SimpleAssets/build/SimpleAssets_project-prefix/src/SimpleAssets_project-stamp/SimpleAssets_project-test.rule

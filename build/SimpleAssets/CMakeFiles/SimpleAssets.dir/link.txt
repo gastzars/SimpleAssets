@@ -1,0 +1,1 @@
+//usr/local/bin/eosio-ld  CMakeFiles/SimpleAssets.dir/SimpleAssets.obj -o SimpleAssets.wasm 

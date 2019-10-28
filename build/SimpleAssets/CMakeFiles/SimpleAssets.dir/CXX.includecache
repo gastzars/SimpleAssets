@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gas/workspace/projects/SimpleAssets/include/SimpleAssets.hpp
+eosio/eosio.hpp
+-
+eosio/asset.hpp
+-
+eosio/singleton.hpp
+-
+eosio/transaction.hpp
+-
+
+/Users/gas/workspace/projects/SimpleAssets/src/SimpleAssets.cpp
+SimpleAssets.hpp
+-
+

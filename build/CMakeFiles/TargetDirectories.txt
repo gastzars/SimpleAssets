@@ -1,0 +1,3 @@
+/Users/gas/workspace/projects/SimpleAssets/build/CMakeFiles/rebuild_cache.dir
+/Users/gas/workspace/projects/SimpleAssets/build/CMakeFiles/edit_cache.dir
+/Users/gas/workspace/projects/SimpleAssets/build/CMakeFiles/SimpleAssets_project.dir
